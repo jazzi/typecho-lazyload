@@ -7,4 +7,4 @@
 
 又拍云最近启用WebP自适应功能，博主个人推荐将图片存放到又拍云CDN上，然后使用外链插入。注意使用这个功能需要到又拍云后台高级功能启用。
 
-![WebP自适应](./typecho-lazyload-one.jpg)
+![WebP自适应](typecho-lazyload-one.jpg)
