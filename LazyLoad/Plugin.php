@@ -31,9 +31,7 @@ class LazyLoad_Plugin implements Typecho_Plugin_Interface {
      * @return void
      * @throws Typecho_Plugin_Exception
      */    
-    public static function deactivate(){
-    	/*八云酱*/
-    }
+    public static function deactivate(){}
 
     /**
      * 获取插件配置面板
@@ -58,13 +56,12 @@ class LazyLoad_Plugin implements Typecho_Plugin_Interface {
      * @param Typecho_Widget_Helper_Form $form
      * @return void
      */   
-    public static function personalConfig(Typecho_Widget_Helper_Form $form){
-    	/*八云酱*/
-    }
+    public static function personalConfig(Typecho_Widget_Helper_Form $form){}
 
     /**
-     * 
      * 功能实现需要 jQuery.js 支持
+     * 
+     * @access public
      * @return void
      */
     public static function footer() {
