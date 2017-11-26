@@ -3,7 +3,7 @@ if (!defined('__TYPECHO_ROOT_DIR__'))
 	exit;
 
 /**
- * 图片懒加载
+ * LazyLoad for Typecho
  * 
  * @package LazyLoad
  * @author 八云酱
